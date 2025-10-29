@@ -8,7 +8,7 @@ I am a front-end web developer and student. I've been learning to code for a yea
 * 🌍  I'm based in Seoul, Republic of Korea
 * 🖥️  See my portfolio at [MyPortfolio](https://drive.google.com/drive/folders/1znwbMYnUDz9dg2p1jTApkTAaxUJY-Xz0?usp=drive_link)
 * ✉️  You can contact me at [seoyeon.ahora@gmail.com](mailto:seoyeon.ahora@gmail.com)
-* 🚀  I'm currently working on [eat-n-split App](https://github.com/seoyeonum/eat-n-split)
+* 🚀  I'm currently working on [stamp-tour app](https://github.com/seoyeonum/stamp-tour) and [usepopcorn app](https://github.com/seoyeonum/usepopcorn)
 * 🧠  I'm currently learning JavaScript and React
 * ⚡  I have a lucky dimple in my cheek
 
